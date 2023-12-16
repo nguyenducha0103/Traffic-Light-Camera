@@ -1,0 +1,17 @@
+fastapi
+uvicorn==0.16.0
+redis
+filterpy
+requests
+PyYAML
+pydantic==1.10.2
+numpy==1.21.6
+
+lap
+motmetrics 
+scikit-image 
+Pillow 
+cython_bbox
+tritonclient[all]
+
+opencv-python
